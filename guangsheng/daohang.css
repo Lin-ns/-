@@ -1,0 +1,77 @@
+.box {}
+
+.lg {
+    height: 85px;
+    width: 1000px;
+    margin: 0px auto;
+    margin-top: 15px;
+}
+
+.dv1 {
+
+    background-image: url(./images/line.jpg);
+    float: left;
+
+    width: 100%;
+    margin-top: 20px;
+}
+
+.a1 {
+    width: 1000px;
+    margin: 0px auto;
+    height: 80px;
+
+}
+
+.a2 {
+    float: left;
+}
+
+.a3 {
+    float: right;
+}
+
+
+
+
+
+.a2>ul>li {
+
+    float: left;
+
+
+
+}
+
+
+
+.a3>ul>li {
+    float: right;
+
+}
+
+.a3>ul>li>a {
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.a2>ul>li>a {
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.a2>ul>li>a:hover {
+    color: orangered;
+    background-color: white;
+
+}
+
+.a3>ul>li>a:hover {
+    color: orangered;
+    background-color: white;
+}

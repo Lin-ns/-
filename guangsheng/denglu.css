@@ -1,0 +1,117 @@
+.box {
+    border: 1px solid red;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: #f1f1f1;
+}
+
+.header {
+    border: 1px solid red;
+    width: 1000px;
+    height: 100px;
+    margin: 0px auto;
+}
+
+.dv1 {
+    border: 1px solid red;
+    float: left;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+.dv1>ul>li {
+    float: left;
+}
+
+.dv1>ul>li {
+    padding: 10px;
+}
+
+.dv2>ul>li {
+    float: right;
+    position: relative;
+    padding: 10px;
+
+}
+
+.dv2>ul>li>a {
+    color: #4991CA;
+}
+
+.a2 {
+    border: 1px solid red;
+    width: 1px;
+    height: 50px;
+    background: url(02-163登录/dot_bg.jpg) repeat-y;
+    line-height: 50px;
+}
+
+.main {
+    border: 1px solid red;
+    width: 1000px;
+    height: 500px;
+    margin: 0px auto;
+    background-color: white;
+
+}
+
+.dv3 {
+    border: 1px solid red;
+    height: 45px;
+    background: url(02-163登录/tit_bg2.jpg);
+}
+
+.dv3 .b2 span {
+    float: left;
+}
+
+.dv4 {
+    border: 1px solid red;
+    width: 300px;
+    margin: 0px auto;
+    background-color: white;
+
+}
+
+.d1 {
+    padding: 10px;
+
+
+
+
+}
+
+.d2 {
+    padding: 5px;
+    font-size: 8px;
+    color: #C8C8C8;
+
+    left: 30px;
+}
+
+.d4 {
+    padding: 20px;
+}
+
+.footer {
+    border: 1px solid red;
+    height: 200px;
+    width: 100%;
+
+}
+
+.dv5 {
+    width: 700px;
+    height: 100px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.dv5>ul>li {
+    float: left;
+    padding: 10px;
+}
