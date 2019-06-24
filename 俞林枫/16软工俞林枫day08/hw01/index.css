@@ -1,0 +1,47 @@
+.mg1000 {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.dv .dv2 {
+    height: 30px;
+    background: #FC6901;
+}
+
+.dv2-1 li {
+    float: left;
+}
+
+.dv2-1 li a {
+    display: block;
+    line-height: 30px;
+    padding: 0px 15px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.dv2-2 li {
+    float: right;
+}
+
+.dv2-2 li a {
+    display: block;
+    line-height: 30px;
+    padding: 0px 15px;
+    text-decoration: none;
+
+}
+
+.dv2-1 {
+    position: relative;
+}
+
+.duan {
+    position: absolute;
+
+}
+
+.zt li a:hover {
+    color: #FC6901;
+    background: rgb(255, 255, 255);
+}
