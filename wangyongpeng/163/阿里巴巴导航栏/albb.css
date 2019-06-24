@@ -1,0 +1,70 @@
+.ma1000 {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.header {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.hd-dh {
+    width: 100%;
+    background: url("../content/img/01-阿里巴巴导航/阿里巴巴导航/img/body_bg.jpg") repeat-x;
+    height: 38px;
+}
+
+.hd-dh .hddh-dv0 {
+    float: left;
+}
+
+.hd-dh .hddh-dv1 {
+    float: right;
+}
+
+.hd-dh .hddh-dv0>ul>li {
+    float: left;
+}
+
+.hd-dh .hddh-dv1>ul>li {
+    float: right;
+}
+
+.hd-dh a {
+    text-decoration: none;
+    color: white;
+    padding: 6px 10px;
+}
+
+.hd-dh .hddh-dv0 ul {
+    width: 800px;
+}
+
+.hd-dh .hddh-dv0 a {
+    height: 38px;
+    line-height: 38px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.hd-dh .hddh-dv1 a {
+    height: 38px;
+    line-height: 38px;
+    font-size: 12px;
+    padding: 9px 10px;
+}
+
+a:hover {
+    background: white;
+    color: #FF7000;
+}
+
+.li0 {
+    position: relative;
+}
+
+.sp0 {
+    position: absolute;
+    top: 8px;
+    left: -25px;
+}
