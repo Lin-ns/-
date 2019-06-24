@@ -1,0 +1,58 @@
+.up-main {
+    height: 76px;
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.ul {
+    margin-left: 50px
+}
+
+.down-self {
+
+    background-image: url("images/body_bg.jpg");
+
+    margin: 0px auto;
+
+}
+
+.con1 {
+
+    width: 1000px;
+    margin: 0px auto;
+}
+
+
+
+.u1>li {
+    float: left;
+
+    font-size: 20px;
+    text-align: center;
+
+    width: 80px;
+    color: white;
+}
+
+.u1>li:hover {
+    background-color: white;
+    color: orange;
+}
+
+.con2 {
+    margin-right: 0px;
+}
+
+.l1 {
+    float: right;
+
+    font-size: 20px;
+    text-align: center;
+    width: 80px;
+    color: white;
+}
+
+.l1:hover {
+    background-color: white;
+    color: orange;
+}

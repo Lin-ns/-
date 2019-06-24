@@ -1,0 +1,22 @@
+body {
+    background: aliceblue
+}
+
+
+.header {
+    background: #fff;
+    padding-top: 20px;
+    border-bottom: #ccc solid 1px;
+    padding-bottom: 10px;
+    border: 1px solid red
+}
+
+.mg1000 {
+    width: 1200px;
+    margin: 0px auto;
+    border: 1px solid red
+}
+
+.hm-dv1.li1 {
+    float: left
+}
